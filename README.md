@@ -1,3 +1,7 @@
 # HappyGraduation
 
- A mirror of https://gitee.com/ZX_Lee/happy-graduation
+#### 介绍
+
+毕业大礼包，缓慢更新中。
+
+A mirror of https://gitee.com/ZX_Lee/happy-graduation
